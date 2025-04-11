@@ -3,10 +3,10 @@
 ### Offical Docs by Pipe Network - https://docs.pipe.network/devnet-2
 
 1️⃣ Dependencies for WINDOWS & LINUX & VPS
-```
+'''
 sudo apt update
 sudo apt upgrade -y
-```
+'''
 
 For VPS Only
 ```
